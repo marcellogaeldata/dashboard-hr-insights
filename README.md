@@ -5,22 +5,22 @@
 
 ---
 
-### 🇧🇷 Descrição do Projeto
+## <img src="https://flagcdn.com/24x18/br.png" width="20"> Descrição do Projeto
 Este projeto transforma dados brutos de RH em inteligência de negócio. O dashboard oferece visibilidade sobre padrões de contratação, disparidades salariais e saúde operacional do capital humano, permitindo decisões embasadas sobre promoções e orçamentos.
 
-### 🇺🇸 Project Description
+## <img src="https://flagcdn.com/24x18/us.png" width="20"> Project Description
 This project transforms raw HR data into business intelligence. The dashboard provides visibility into hiring patterns, salary disparities, and human capital operational health, enabling data-driven decisions on promotions and budgeting.
 
 ---
 
 ## 🚀 Resultados e Insights | Results & Insights
 
-### 🇧🇷 Impacto Organizacional:
+### <img src="https://flagcdn.com/24x18/br.png" width="18"> Impacto Organizacional
 * **Evolução da Força de Trabalho:** Monitoramento de picos de contratação histórica.
 * **Eficiência Salarial:** Comparativo de médias por setor para equilíbrio orçamentário.
 * **Otimização de Decisões:** Melhoria no processo de promoção com scores de performance.
 
-### 🇺🇸 Organizational Impact:
+### <img src="https://flagcdn.com/24x18/us.png" width="18"> Organizational Impact
 * **Workforce Evolution:** Monitoring historical hiring peaks.
 * **Salary Efficiency:** Comparative average analysis by sector for budgetary balance.
 * **Decision Optimization:** Promotion process improvement using performance scores.
@@ -29,12 +29,12 @@ This project transforms raw HR data into business intelligence. The dashboard pr
 
 ## 🛠️ Destaques Técnicos | Technical Highlights
 
-### 🇧🇷 Funcionalidades:
+### <img src="https://flagcdn.com/24x18/br.png" width="18"> Funcionalidades Principais
 * **Composição Demográfica:** Diversidade de gênero e perfil dos colaboradores.
 * **Distribuição de Talentos:** Performance segmentada por departamento.
 * **Foco Operacional:** KPIs centrais (Média Salarial, Total de Colaboradores e Absenteísmo).
 
-### 🇺🇸 Features:
+### <img src="https://flagcdn.com/24x18/us.png" width="18"> Key Features
 * **Demographic Composition:** Gender diversity and employee profiles.
 * **Talent Distribution:** Department-segmented performance analysis.
 * **Operational Focus:** Central KPIs (Average Salary, Total Employees, and Absenteism).
