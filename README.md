@@ -1,7 +1,7 @@
-# People Analytics: Gestão Estratégica de Capital Humano 👥📊
+# People Analytics: Strategic Human Capital Management 👥📊
 ## HR Insights & Strategic People Analytics Dashboard 📈
 
-![HR Dashboard](./HR%20Insights%20&%20People%20Analytics%20.jpg)
+![HR Dashboard](./HR-Insights-_-People-Analytics.png)
 
 ---
 
@@ -18,31 +18,31 @@ This project transforms raw HR data into business intelligence. The dashboard pr
 ### <img src="https://flagcdn.com/24x18/br.png" width="18"> Impacto Organizacional
 * **Evolução da Força de Trabalho:** Monitoramento de picos de contratação histórica.
 * **Eficiência Salarial:** Comparativo de médias por setor para equilíbrio orçamentário.
-* **Otimização de Decisões:** Melhoria no processo de promoção com scores de performance.
+* **Padronização Internacional:** Unidades de medida ajustadas para o padrão global (K para milhares).
 
 ### <img src="https://flagcdn.com/24x18/us.png" width="18"> Organizational Impact
 * **Workforce Evolution:** Monitoring historical hiring peaks.
 * **Salary Efficiency:** Comparative average analysis by sector for budgetary balance.
-* **Decision Optimization:** Promotion process improvement using performance scores.
+* **International Standardization:** Measurement units adjusted to global standards (K for thousands).
 
 ---
 
 ## 🛠️ Destaques Técnicos | Technical Highlights
 
 ### <img src="https://flagcdn.com/24x18/br.png" width="18"> Funcionalidades Principais
+* **DAX Avançado:** Criação de medidas personalizadas para formatação de KPIs ($K e K).
 * **Composição Demográfica:** Diversidade de gênero e perfil dos colaboradores.
-* **Distribuição de Talentos:** Performance segmentada por departamento.
 * **Foco Operacional:** KPIs centrais (Média Salarial, Total de Colaboradores e Absenteísmo).
 
 ### <img src="https://flagcdn.com/24x18/us.png" width="18"> Key Features
+* **Advanced DAX:** Custom measures for KPI formatting ($K and K).
 * **Demographic Composition:** Gender diversity and employee profiles.
-* **Talent Distribution:** Department-segmented performance analysis.
 * **Operational Focus:** Central KPIs (Average Salary, Total Employees, and Absenteism).
 
 ---
 
 ## 🔧 Ferramentas | Tools
-* **Power BI:** Dashboards interativos.
+* **Power BI:** Dashboards interativos e Medidas DAX.
 * **Power Query:** Tratamento de dados e ETL.
 * **Data Source:** Dataset Público (Kaggle - HRDataset_v14).
 
